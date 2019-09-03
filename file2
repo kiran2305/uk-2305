@@ -1,5 +1,7 @@
-hello  from dev1
+hello  from dev2
 {
-  public provide from dev1
+  public provide from dev2
   }
-  capital info.java {hello dev1}
+  capital info.java {hello from dev2}
+   hai from dev2
+{hello world dev2}
